@@ -1,7 +1,8 @@
 
 
 body {
-    background-color: black;
+    /* background-color: black; */
+    background-image: url("../images/carpet.jpg");
 }
 
 h2 {
@@ -22,4 +23,8 @@ p{
 li {
 
     color: rgb(255, 255, 255)
+}
+
+.whitetext{
+    color: white;
 }
