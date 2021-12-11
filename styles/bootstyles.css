@@ -34,9 +34,9 @@ bottom:200px;
 position: absolute;
 }
 
-.tablautext {
-    color:rgb(0, 0, 0);
-font-size: 15px;
+.tableautext {
+color: black;
+font-size: 1.3em;
 font-weight: bold;
 }
 
